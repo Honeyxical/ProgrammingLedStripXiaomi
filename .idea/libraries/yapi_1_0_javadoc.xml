@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yapi-1.0-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/jar/yapi-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
